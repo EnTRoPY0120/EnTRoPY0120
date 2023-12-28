@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">My name is Vijayaraj from India. I'm a budding software developer who's passionate about leveraging new technologies to solve real-world problems. My interests lie in exploring Full-Stack Development and DevOps.<br><br>- 🐞 Creating bugs since 2023<br>- 📚 I'm currently learning JavaScript and Node.js<br>- ⚡ In my free time I watch football and play around with Linux.</p>
+<p align="left">My name is Vijayaraj from India. I'm a budding software developer who's passionate about leveraging new technologies to solve real-world problems. My interests lie in exploring Full-Stack Development and DevOps.<br><br>- 🐞 Creating bugs since 2023<br>- 📚 I'm currently learning ReactJS and Node.js<br>- ⚡ In my free time I watch football and play around with Linux.</p>
 
 ###
 
