@@ -2,7 +2,7 @@
     <img height="350"  src="./6572420_3301603.svg">
 </div>
 <h1 align="center">Hi 👋, I'm Vijayaraj</h1>
-<p align="center" style="font-size: 42 px">I have been enjoying my experience in full-stack development after my journey took an unexpected turn, leading me from a background in electronics engineering to the captivating world of software development. I'm currently on the look out for a full-stack or backend development, ideally in JavaScript. I'd especially love to work at a start-up on a tight knit team where I can make an impact quickly. If you're hiring, let's chat!</p>
+<h3 align="center" style="font-size: 42 px">I have been enjoying my experience in full-stack development after my journey took an unexpected turn, leading me from a background in electronics engineering to the captivating world of software development. I'm currently on the look out for a full-stack or backend development, ideally in JavaScript.If you're hiring, let's chat!</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=entropy0120&label=Profile%20views&color=0e75b6&style=flat" alt="entropy0120" /> </p>
 
@@ -60,7 +60,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
 </div>
-
+<br></br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=entropy0120&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="entropy0120" /></p>
 
