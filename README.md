@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/vijayarajdvr11" target="blank"><img src="https://img.shields.io/twitter/follow/vijayarajdvr11?logo=twitter&style=for-the-badge" alt="vijayarajdvr11" /></a> </p>
 
 
-- 🌱 I’m currently learning **Terraform, Kubernetes**
+- 🌱 I’m currently learning **Kubernetes, Terraform**
 
 - 💬 Ask me about **Linux, DevOps, System Design**
 
